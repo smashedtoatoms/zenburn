@@ -7,6 +7,13 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+## [0.0.1]
+### Added
+- Updated folder background highlight color
+- Added screenshot
+- Updated README
+- Added License
+
 ## [0.0.1-beta]
 ### Added
 - Initial Work.
@@ -14,4 +21,3 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ### Added
 - Initial scaffold created from [IntelliJ Platform Plugin
   Template](https://github.com/JetBrains/intellij-platform-plugin-template)
-
