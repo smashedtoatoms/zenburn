@@ -7,6 +7,10 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+## [0.0.2]
+### Added
+- Updated just about all the colors.  As it turns out, building themes like this is really challenging
+
 ## [0.0.1]
 ### Added
 - Updated folder background highlight color
