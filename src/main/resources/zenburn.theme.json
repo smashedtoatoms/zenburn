@@ -25,7 +25,7 @@
     "ToolWindow": {
       "Header": {
         "background": "#3a3a3a",
-        "inactiveBackground": "#252526"
+        "inactiveBackground": "#3a3a3a"
       },
       "Button": {
         "hoverBackground": "#3a3a3a",

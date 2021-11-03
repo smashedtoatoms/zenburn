@@ -43,5 +43,5 @@ Plugin based on the [IntelliJ Platform Plugin Template][template].
    ```
 4. Release:
    ```sh
-   ./gradlew releasePlugin
+   ./gradlew publishPlugin
    ```
