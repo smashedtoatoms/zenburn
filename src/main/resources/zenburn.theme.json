@@ -6,13 +6,22 @@
   "editorScheme": "/zenburn.xml",
   "ui": {
     "*": {
-      "background": "#3a3a3a",
       "foreground": "#c6c6c6",
-      "selectionBackground": "#545454",
       "selectionForeground": "#c6c6c6",
+      "errorForeground": "#cc9393",
+      "background": "#3a3a3a",
+      "disabledBackground": "#3a3a3a",
+      "inactiveBackground": "#3a3a3a",
+      "selectionBackground": "#545454",
       "selectionInactiveBackground": "#545454",
       "selectionBackgroundInactive": "#545454",
-      "errorForeground": "#cc9393"
+      "lightSelectionBackground": "#393a3d",
+      "lightSelectionInactiveBackground": "#2f3032",
+      "borderColor": "#414245",
+      "disabledBorderColor": "#333336",
+      "separatorForeground": "#414245",
+      "separatorColor": "#414245",
+      "lineSeparatorColor": "#414245"
     },
     "EditorTabs": {
       "borderColor": "#373737",

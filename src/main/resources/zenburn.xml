@@ -1,4 +1,4 @@
-<scheme name="Zenburn" version="142" parent_scheme="Default">
+<scheme name="Zenburn" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.2" />
   <font>
@@ -27,7 +27,7 @@
     <option name="CARET_ROW_COLOR" value="303030" />
     <option name="CONSOLE_BACKGROUND_KEY" value="303030" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="6f6f6f" />
-    <option name="DOCUMENTATION_COLOR" value="3a3a3a" />
+    <option name="DOCUMENTATION_COLOR" value="2b2b2b" />
     <option name="DOC_COMMENT_GUIDE" value="656555" />
     <option name="DOC_COMMENT_LINK" value="94bff3" />
     <option name="ERROR_HINT" value="cc9393" />
@@ -65,7 +65,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="2b2b2b" />
     <option name="SELECTED_INDENT_GUIDE" value="505050" />
     <option name="SELECTED_TEARLINE_COLOR" value="6f6f6f" />
-    <option name="SELECTION_BACKGROUND" value="3f3f3f" />
+    <option name="SELECTION_BACKGROUND" value="4f4f4f" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="SEPARATOR_BELOW_COLOR" value="dcdccc" />
     <option name="TEARLINE_COLOR" value="4f4f4f" />
@@ -81,6 +81,31 @@
     </option>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
       <value />
+    </option>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="709080" />
+      </value>
+    </option>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="bc8383" />
+      </value>
+    </option>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="f0dfaf" />
+      </value>
+    </option>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="93e0e3" />
+      </value>
+    </option>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="dc8cc3" />
+      </value>
     </option>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
       <value>
@@ -222,6 +247,11 @@
     <option name="CONDITIONALLY_NOT_COMPILED">
       <value>
         <option name="FOREGROUND" value="536c46" />
+      </value>
+    </option>
+    <option name="CONSOLE_BLACK_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="0" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
@@ -473,7 +503,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="4c7073" />
+        <option name="FOREGROUND" value="6ca0a3" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
@@ -551,7 +581,7 @@
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="4c7073" />
+        <option name="FOREGROUND" value="7cb8bb" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -574,7 +604,7 @@
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="4c7073" />
+        <option name="FOREGROUND" value="6ca0a3" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
@@ -672,8 +702,8 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="8c5353" />
-        <option name="ERROR_STRIPE_COLOR" value="8c5353" />
+        <option name="EFFECT_COLOR" value="e81a1a" />
+        <option name="ERROR_STRIPE_COLOR" value="e81a1a" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -959,10 +989,20 @@
     <option name="JS.ATTRIBUTE">
       <value />
     </option>
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="dcdccc" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="JS.PARAMETER">
       <value>
-        <option name="EFFECT_COLOR" value="a9b7c6" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JS.REGEXP">
+      <value>
+        <option name="FOREGROUND" value="cc9393" />
       </value>
     </option>
     <option name="JSON.PROPERTY_KEY">
@@ -1071,6 +1111,7 @@
     <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="8c5353" />
+        <option name="ERROR_STRIPE_COLOR" value="8c5353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -1188,6 +1229,31 @@
     <option name="REQUIRE_GEM_CALL">
       <value>
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="709080" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="bc8383" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="f0dfaf" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="93e0e3" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="dc8cc3" />
       </value>
     </option>
     <option name="RUNTIME_ERROR">
@@ -1400,6 +1466,56 @@
         <option name="EFFECT_COLOR" value="a9b7c6" />
       </value>
     </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="709080" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="bc8383" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="f0dfaf" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="93e0e3" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="dc8cc3" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="709080" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="bc8383" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="f0dfaf" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="93e0e3" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="dc8cc3" />
+      </value>
+    </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="93e0e3" />
@@ -1439,6 +1555,11 @@
         <option name="FOREGROUND" value="dca3a3" />
       </value>
     </option>
+    <option name="TERMINAL_COMMAND_TO_RUN_USING_IDE">
+      <value>
+        <option name="BACKGROUND" value="6f6f6f" />
+      </value>
+    </option>
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="dcdccc" />
@@ -1458,6 +1579,12 @@
         <option name="FOREGROUND" value="7f9f7f" />
         <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="7f9f7f" />
+      </value>
+    </option>
+    <option name="TS.TYPE_GUARD">
+      <value>
+        <option name="EFFECT_COLOR" value="fffffd" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
@@ -1485,7 +1612,7 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="6f6f6f" />
+        <option name="EFFECT_COLOR" value="f0dfaf" />
         <option name="ERROR_STRIPE_COLOR" value="f0dfaf" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -1539,6 +1666,11 @@
     <option name="YAML_SCALAR_VALUE4">
       <value>
         <option name="FOREGROUND" value="e8d3d3" />
+      </value>
+    </option>
+    <option name="org.rust.MACRO">
+      <value>
+        <option name="FOREGROUND" value="dfaf8f" />
       </value>
     </option>
     <option name="osmorc.headerName">
