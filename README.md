@@ -29,19 +29,21 @@ Plugin based on the [IntelliJ Platform Plugin Template][template].
 
 ## How to dev
 1. Make changes
-2. Test:
+2. Update Unreleased section of CHANGELOG.md to represent changes made
+3. Increment gradle.properties
+4. Test:
    ```sh
    ./gradlew test
    ```
-3. Verify:
+5. Verify:
    ```sh
    ./gradlew verifyPlugin
    ```
-4. Build:
+6. Build:
    ```sh
    ./gradlew buildPlugin
    ```
-4. Release:
+7. Release:
    ```sh
    ./gradlew publishPlugin
    ```

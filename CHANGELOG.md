@@ -7,16 +7,26 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+## [0.0.3]
+### Added
+- Updated CodeWithMe colors to be easier to read.
+- Fixed breadcrumbs so they'd be easier to read.
+- Fixed menu editors so text wasn't the same color as the background.
+- Switched to PragmataPro Liga (non-free) as the default since that is
+  what I use.  Falls back to a free font.
+- Updated dev instructions
+
 ## [0.0.2]
 ### Added
-- Updated just about all the colors.  As it turns out, building themes like this is really challenging
+- Updated just about all the colors.  As it turns out, building themes
+  like this is really challenging.
 
 ## [0.0.1]
 ### Added
-- Updated folder background highlight color
-- Added screenshot
-- Updated README
-- Added License
+- Updated folder background highlight color.
+- Added screenshot.
+- Updated README.
+- Added License.
 
 ## [0.0.1-beta]
 ### Added

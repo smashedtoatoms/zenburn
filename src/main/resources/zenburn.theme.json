@@ -9,7 +9,7 @@
       "background": "#3a3a3a",
       "foreground": "#c6c6c6",
       "selectionBackground": "#545454",
-      "selectionForeground": "#",
+      "selectionForeground": "#c6c6c6",
       "selectionInactiveBackground": "#545454",
       "selectionBackgroundInactive": "#545454",
       "errorForeground": "#cc9393"

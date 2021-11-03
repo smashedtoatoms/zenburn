@@ -1,17 +1,25 @@
 <scheme name="Zenburn" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.1" />
+  <option name="LINE_SPACING" value="1.2" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
+    <option name="EDITOR_FONT_NAME" value="PragmataPro Liga" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <font>
-    <option name="EDITOR_FONT_NAME" value="Inconsolata" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Fira Code Retina" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="PragmataPro Liga" />
+    <option name="EDITOR_FONT_SIZE" value="11" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_SIZE" value="11" />
+  </console-font>
   <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.1" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="7f9f7f" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -42,6 +50,9 @@
     <option name="GUTTER_BACKGROUND" value="383838" />
     <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="7f9f7f" />
     <option name="INDENT_GUIDE" value="373737" />
+    <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="505050" />
+    <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="505050" />
+    <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="505050" />
     <option name="LINE_NUMBERS_COLOR" value="656555" />
     <option name="METHOD_SEPARATORS_COLOR" value="5f5f5f" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
@@ -143,23 +154,21 @@
     <option name="BREADCRUMBS_CURRENT">
       <value>
         <option name="FOREGROUND" value="dcdccc" />
-        <option name="BACKGROUND" value="4f4f4f" />
       </value>
     </option>
     <option name="BREADCRUMBS_DEFAULT">
       <value>
-        <option name="FOREGROUND" value="4f4f4f" />
+        <option name="FOREGROUND" value="c7c4c4" />
       </value>
     </option>
     <option name="BREADCRUMBS_HOVERED">
       <value>
         <option name="FOREGROUND" value="dcdccc" />
-        <option name="BACKGROUND" value="4f4f4f" />
       </value>
     </option>
     <option name="BREADCRUMBS_INACTIVE">
       <value>
-        <option name="FOREGROUND" value="4f4f4f" />
+        <option name="FOREGROUND" value="c7c4c4" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
@@ -388,6 +397,42 @@
     </option>
     <option name="Class">
       <value />
+    </option>
+    <option name="CodeWithMe.USER_1_SELECTION">
+      <value>
+        <option name="FOREGROUND" value="484848" />
+        <option name="BACKGROUND" value="d5e9cd" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_2_SELECTION">
+      <value>
+        <option name="FOREGROUND" value="484848" />
+        <option name="BACKGROUND" value="cde9f3" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_3_SELECTION">
+      <value>
+        <option name="FOREGROUND" value="484848" />
+        <option name="BACKGROUND" value="f9dfe3" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_4_SELECTION">
+      <value>
+        <option name="FOREGROUND" value="484848" />
+        <option name="BACKGROUND" value="eae3f9" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_5_SELECTION">
+      <value>
+        <option name="FOREGROUND" value="484848" />
+        <option name="BACKGROUND" value="f7d5c5" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_6_SELECTION">
+      <value>
+        <option name="FOREGROUND" value="484848" />
+        <option name="BACKGROUND" value="f8e7cc" />
+      </value>
     </option>
     <option name="DEBUGGER_INLINED_VALUES_EXECUTION_LINE">
       <value>
@@ -773,22 +818,33 @@
         <option name="BACKGROUND" value="5f7f5f" />
       </value>
     </option>
-    <option name="INLINE_PARAMETER_HINT">
+    <option name="INLAY_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="aaa9a9" />
+        <option name="BACKGROUND" value="505050" />
+      </value>
+    </option>
+    <option name="INLAY_TEXT_WITHOUT_BACKGROUND">
       <value>
         <option name="FOREGROUND" value="dcdccc" />
-        <option name="BACKGROUND" value="4f4f4f" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="aaa9a9" />
+        <option name="BACKGROUND" value="505050" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_CURRENT">
       <value>
-        <option name="FOREGROUND" value="dcdccc" />
-        <option name="BACKGROUND" value="4f4f4f" />
+        <option name="FOREGROUND" value="aaa9a9" />
+        <option name="BACKGROUND" value="505050" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
-        <option name="FOREGROUND" value="dcdccc" />
-        <option name="BACKGROUND" value="4f4f4f" />
+        <option name="FOREGROUND" value="aaa9a9" />
+        <option name="BACKGROUND" value="505050" />
       </value>
     </option>
     <option name="INSPECTION_MULTIPLE_RESOLVE_WARNING_ID">
