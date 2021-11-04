@@ -7,6 +7,9 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+## [0.0.5]
+- Cleaned up a bunch of incorrect color settings
+
 ## [0.0.4]
 - Set to inherit from Darcula to deal with intelliJ autocomplete bugs
 - Updated various other language/plugins as I have encountered oddities
