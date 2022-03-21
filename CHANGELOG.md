@@ -7,6 +7,9 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+## [0.0.7]
+- Darken HeaderTab.hoverBackground
+
 ## [0.0.6]
 - Updated dependencies
 

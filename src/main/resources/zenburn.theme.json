@@ -1,4 +1,3 @@
-
 {
   "name": "Zenburn",
   "dark": true,
@@ -41,7 +40,7 @@
         "selectedBackground": "#545454",
         "selectedForeground": "#c6c6c6"
       },
-      "HeaderTab.hoverBackground": "#ff0000"
+      "HeaderTab.hoverBackground": "#5e0000"
     },
     "PopupMenu": {
       "borderWidth": 0,

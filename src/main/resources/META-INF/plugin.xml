@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.github.smashedtoatoms.zenburn</id>
     <name>Zenburn</name>
-    <version>0.0.6</version>
+    <version>0.0.7</version>
     <vendor email="hello@smashedtoatoms.com" url="https://github.com/smashedtoatoms">smashedtoatoms</vendor>
     <description><![CDATA[
     Zenburn is a low-contrast color scheme for Vim, ported to Intellij.  It's easy for your eyes and designed to keep you in the zone for long programming sessions. Zenburn has been ported to many different editors and environments. For more information and list of derivatives, visit http://kippura.org/zenburnpage.
