@@ -1,4 +1,1 @@
-export CERTIFICATE_CHAIN=
-export PRIVATE_KEY=
-export PRIVATE_KEY_PASSWORD=
-export PUBLISH_TOKEN=
+export ORG_GRADLE_PROJECT_intellijPublishToken='YOUR_TOKEN'
