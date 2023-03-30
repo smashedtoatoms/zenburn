@@ -6,6 +6,12 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## Unreleased
 
+## 0.0.11 - 2023-03-30
+- Increment version and update dependencies
+
+## 0.0.10 - 2023-03-30
+- Increment version and update dependencies
+
 ## 0.0.9 - 2022-12-15
 - Increment version and update dependencies
 
@@ -32,13 +38,13 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - Fixed breadcrumbs so they'd be easier to read.
 - Fixed menu editors so text wasn't the same color as the background.
 - Switched to PragmataPro Liga (non-free) as the default since that is
-  what I use.  Falls back to a free font.
+  what I use. Falls back to a free font.
 - Updated dev instructions
 
 ## 0.0.2
 
 ### Added
-- Updated just about all the colors.  As it turns out, building themes
+- Updated just about all the colors. As it turns out, building themes
   like this is really challenging.
 
 ## 0.0.1
