@@ -6,6 +6,11 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## Unreleased
 
+## 0.1.0 - 2023-07-31
+- Increment version and update dependencies
+- This one breaks backwards compatibility because of JetBrains forcing a
+  Java upgrade
+
 ## 0.0.11 - 2023-03-30
 - Increment version and update dependencies
 
