@@ -2,8 +2,8 @@
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.2" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="PragmataPro Liga" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_NAME" value="Iosevka Nerd Font" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
@@ -11,8 +11,8 @@
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="PragmataPro Liga" />
-    <option name="EDITOR_FONT_SIZE" value="11" />
+    <option name="EDITOR_FONT_NAME" value="Iosevka Nerd Font" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
@@ -616,7 +616,7 @@
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="BACKGROUND" value="5f7f5f" />
+        <option name="BACKGROUND" value="364936" />
         <option name="ERROR_STRIPE_COLOR" value="5f7f5f" />
       </value>
     </option>
