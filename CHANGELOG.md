@@ -6,6 +6,9 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## Unreleased
 
+## 0.1.2 - 2023-12-07
+- Increment version
+
 ## 0.1.1 - 2023-09-11
 - Change default font from a proprietary font to an open source one
 - Fixed [this issue](https://github.com/smashedtoatoms/zenburn/issues/5)
