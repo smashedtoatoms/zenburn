@@ -1,1 +1,1 @@
-export ORG_GRADLE_PROJECT_intellijPublishToken='YOUR_TOKEN'
+export PUBLISH_TOKEN='YOUR_TOKEN'
