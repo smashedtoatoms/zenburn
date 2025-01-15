@@ -7,6 +7,10 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+## [0.1.7] - 2025-01-15
+
+- Update build and increment version
+
 ## [0.1.6] - 2024-09-19
 
 - Update build and increment version
@@ -105,7 +109,8 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - Initial scaffold created from [IntelliJ Platform Plugin
   Template](https://github.com/JetBrains/intellij-platform-plugin-template)
 
-[Unreleased]: https://github.com/smashedtoatoms/Zenburn/compare/v0.1.6...HEAD
+[Unreleased]: https://github.com/smashedtoatoms/Zenburn/compare/v0.1.7...HEAD
+[0.1.7]: https://github.com/smashedtoatoms/Zenburn/compare/v0.1.6...v0.1.7
 [0.1.6]: https://github.com/smashedtoatoms/Zenburn/compare/v0.1.5...v0.1.6
 [0.1.5]: https://github.com/smashedtoatoms/Zenburn/compare/v0.1.4...v0.1.5
 [0.1.4]: https://github.com/smashedtoatoms/Zenburn/compare/v0.1.3...v0.1.4
