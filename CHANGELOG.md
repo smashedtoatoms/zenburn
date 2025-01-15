@@ -7,6 +7,10 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+## [0.1.8] - 2025-01-15
+
+- Attempting to make it not require me to update with every JetBrains release.
+
 ## [0.1.7] - 2025-01-15
 
 - Update build and increment version
@@ -109,7 +113,8 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - Initial scaffold created from [IntelliJ Platform Plugin
   Template](https://github.com/JetBrains/intellij-platform-plugin-template)
 
-[Unreleased]: https://github.com/smashedtoatoms/Zenburn/compare/v0.1.7...HEAD
+[Unreleased]: https://github.com/smashedtoatoms/Zenburn/compare/v0.1.8...HEAD
+[0.1.8]: https://github.com/smashedtoatoms/Zenburn/compare/v0.1.7...v0.1.8
 [0.1.7]: https://github.com/smashedtoatoms/Zenburn/compare/v0.1.6...v0.1.7
 [0.1.6]: https://github.com/smashedtoatoms/Zenburn/compare/v0.1.5...v0.1.6
 [0.1.5]: https://github.com/smashedtoatoms/Zenburn/compare/v0.1.4...v0.1.5
